@@ -1,4 +1,4 @@
-package entities;
+package com.devsuperior.desafio01.entities;
 
 public class Order {
 	private Integer code;
